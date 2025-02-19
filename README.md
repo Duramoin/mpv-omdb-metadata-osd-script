@@ -15,7 +15,7 @@
 
 # get your omdb api for free http://www.omdbapi.com/ (1k api requests per month)
 
-- open omdb_metadata._osd.lua in a text editor and replace "API_KEY_HERE" with your omdb api.
+- open omdb_metadata_osd.lua in a text editor and replace "API_KEY_HERE" with your omdb api.
 
 # how to use
 
