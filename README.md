@@ -1,2 +1,2 @@
-# mpv-omdb-metadata-osd-cript
-omdb metadata that fetches from imdb using omdb api key.
+# mpv-omdb-metadata-osd-script
+omdb metadata that fetches from imdb using your omdb api key.
