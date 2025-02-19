@@ -9,7 +9,7 @@
 - The.Brutalist.2024.1080p.WEB.h264-ETHEL.mkv
 - A Bittersweet Life (2005) DC (1080p BluRay x265 HEVC 10bit AAC 5.1 Korean Tigole).mkv
 - Meteor.Garden.S02E01.2001.480p.NF.WEB-DL.DDP2.0.x264-HoneyG.mkv
-- The.Trauma.Code.Heroes.on.Call.S01E01.1080p.NF.WEB-DL.DDP5.1.HEVC-Saon
+- The.Trauma.Code.Heroes.on.Call.S01E01.1080p.NF.WEB-DL.DDP5.1.HEVC-Saon.mkv
 - The.Penguin.S01E08.1080p.WEB.H264-SuccessfulCrab.mkv
 - Supernatural.S15E02.HDTV.x264-SVA.mp4
 
