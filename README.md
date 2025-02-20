@@ -1,4 +1,4 @@
-# mpv-omdb-metadata-osd-script
+# mpv omdb_tmdb_metadata_osd.lua script
 ![Preview Image](https://github.com/Duramoin/mpv-omdb-metadata-osd-script/blob/main/screenshot_metadata_osd.png)
 
 # filenames currently supported
